@@ -24,10 +24,15 @@ Landing AI
   LandingLens
 
 Databricks
+
   AutoML
+
 Google Cloud
+
   Vertex AI
+
 Autogluon
+
 Autokeras
 
 ### Definition
