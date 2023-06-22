@@ -3,37 +3,37 @@ This repo consists of supporting documents, code and generated outputs that were
 The list of AutoML tools evaluated (Current state of findings):
 
 ## Tools being evaluated
-AWS
+**AWS**
 
   AWS SageMaker Canvas - no code
 
   AWS SageMaker Studio - no code/low code
 
-H2O.ai
+**H2O.ai**
 
   H2O AutoML- low code/code
   
   H2O Driverless AI - no code/low code
 
-Azure
+**Azure**
 
   Automated ML - no code
 
-Landing AI
+**Landing AI**
 
   LandingLens
 
-Databricks
+**Databricks**
 
   AutoML
 
-Google Cloud
+**Google Cloud**
 
   Vertex AI
 
-Autogluon
+**Autogluon**
 
-Autokeras
+**Autokeras**
 
 ### Definition
 Automated Machine Learning (AutoML) is the process of automating the tasks of applying machine learning to real-world problems
